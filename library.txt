@@ -1,3 +1,5 @@
+B -- PHILOSOPHY. PSYCHOLOGY. RELIGION
+
 B187.5 Waterfield, Robin. 2009. The First Philosophers : The Pre-Socratics and Sophists. Oxford: Oxford University Press.
 B3312.E5 Friedrich Wilhelm Nietzsche. 2014. Beyond Good and Evil. San Bernardino, Ca: Millennium Publications.
 B3313.A43 Nietzsche, Friedrich. Thus Spoke Zarathustra. Spark Educational Publishing, 2005.
@@ -30,8 +32,14 @@ BV4529 Crouch, Andy. 2017. The Tech-Wise Family : Everyday Steps for Putting Tec
 BV4811 Keller, Timothy, and Sam Allberry. 90 Days in John 14-17, Romans and James: Explore by the Book (Vol 2). Explore by the Book, 2017.
 BV4811 Lucado, Max. Grace for the Moment: Inspirational Thoughts for Each Day of the Year. Thomas Nelson Inc, 2000.
 BX9422.5 Steele, David H., David N. Steele, Curtis C. Thomas, and S. Lance Quinn. The Five Points of Calvinism: Defined, Defended, Documented. P & R Publishing, 2004.
+
+C -- AUXILIARY SCIENCES OF HISTORY
+
 CB53 Durant, Will. Our Oriental Heritage: Being a History of Civilization in Egypt and the Near East to the Death of Alexander, and in India, China and Japan from the Beginning to Our Own Day, with an Introduction on the Nature and Foundations of Civilization. M J F Books, 1993.
 CB53 Durant, Will. The Life of Greece: Being a History of Greek Civilization from the Beginnings, and of Civilization in the Near East from the Death of Alexander, to the Roman Conquest ; with an Introduction on the Prehistoric Culture of Crete. M J F Books, 1993.
+
+D -- WORLD HISTORY AND HISTORY OF EUROPE, ASIA, AFRICA, AUSTRALIA, NEW ZEALAND, ETC.
+
 D106 Wyman, Patrick. The Verge: Reformation, Renaissance, and Forty Years That Shook the World. Twelve, 2021.
 D16.8 Kant, Immanuel. 1963. On History. MacMillan Publishing Company. 
 D21 Wells, H. G. The Outline of History: The Roman Empire to the Great War. Barnes & Noble Publishing, 2004.
@@ -42,11 +50,16 @@ DC62.C2 Handford, S A. 1982. Caesar : The Conquest of Gaul. New York: Penguin Bo
 DF229.T5 Thucydides. The History of the Peloponnesian War: Revised Edition. Penguin Classics, 1954.
 DG231 Mackay, Christopher S. Ancient Rome: A Military and Political History. Cambridge University Press, 2007.
 DS79.764.A63 Willink, Jocko, and Leif Babin. Extreme Ownership: How U.S. Navy SEALs Lead and Win (New Edition). St. Martin’s Press, 2017.
+
+E -- HISTORY OF THE AMERICAS
+
 E457.2 Freiling, Thomas. Walking with Lincoln: Spiritual Strength from America’s Favorite President. Revell, 2009.
 E468 Catton, Bruce, and James M Mcpherson. 2005. The Civil War. Boston ; New York: Houghton Mifflin.
 E470.2 Catton, Bruce. 1976. The Army of the Potomac. New York: Doubleday.
 E672 Chernow, Ron. Grant. Penguin, 2017.
 E840.8.T65 Hoffman, David Emanuel. The Billion Dollar Spy: A True Story of Cold War Espionage and Betrayal. Doubleday Books, 2015.
+
+G -- GEOGRAPHY. ANTHROPOLOGY. RECREATION
 GV1029.15 Cannell, Michael. The Limit: Life and Death on the 1961 Grand Prix Circuit. Twelve, 2012.
 GV1440 Yusupov, Artur. Build Up Your Chess 1: The Fundamentals. Quality Chess Uk Llp, 2008.
 GV1445 Chernev, Irving. Logical Chess : Move By Move: Every Move Explained. Batsford, 2003.
@@ -87,6 +100,9 @@ GV964.H6 Sampson, Curt. Hogan. Rutledge Hill Press, 1996.
 GV965 Hogan, Ben, and Herbert Warren Wind. Ben Hogan’s Five Lessons: The Modern Fundamentals of Golf. Simon and Schuster, 1985.
 GV965 Penick, Harvey. Harvey Penick’s Little Red Book: Lessons And Teachings From A Lifetime In Golf. Simon and Schuster, 2012.
 GV965 Young, Adam. The Practice Manual: The Ultimate Guide for Golfers, 2015.
+
+H -- SOCIAL SCIENCES 
+
 HC105.6 Lowenstein, Roger. 2022. Ways and Means. Penguin.
 HD57.7 Lencioni, Patrick M. The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues. John Wiley & Sons, 2016.
 HD57.7 Willink, Jocko, and Leif Babin. The Dichotomy of Leadership. Book. St. Martin’s Press, 2018.
@@ -98,6 +114,9 @@ HN90.M6 Shapiro, Ben. The Right Side of History: How Reason and Moral Purpose Ma
 HQ756 Limbert, Tom. 2012. Dad’s Playbook. Chronicle Books.
 HV5840.G3 Ohler, Norman. Blitzed: Drugs in the Third Reich. Houghton Mifflin, 2017.
 HX833 Rachels, Christopher Chase. A Spontaneous Order: The Capitalist Case for a Stateless Society. Createspace Independent Publishing Platform, 2015.
+
+J -- POLITICAL SCIENCE 
+
 JA74.5 Marcus, George E., W. Russell Neuman, Michael MacKuen, and Ann N. Crigler. The Affect Effect: Dynamics of Emotion in Political Thinking and Behavior. University of Chicago Press, 2007.
 JC143.M38 Niccolò Machiavelli, and John Scott Ripon. 1810. The Prince. London: Printed For Sherwood, Neely, And Jones.
 JC153 Hobbes, Thomas. Leviathan. Barnes & Noble Publishing, 2004.
@@ -106,8 +125,17 @@ JC71 Plato. The Republic: Introduction by Alexander Nehamas. National Geographic
 JC71.A41 Aristotle. The Politics. Penguin UK, 1981.
 JK1967 Flanigan, William H, and N. Zingale. Political Behavior of American Electorate 11th Edition. C Q Press College, 2006.
 JZ1480 Mr. Peter Zeihan. 2023. The Accidental Superpower: 10 Years On. Hachette UK.
+
+K -- LAW 
+
 KF8775.Z9 Levin, Mark R. Men in Black: How the Supreme Court Is Destroying America. Regnery Publishing, 2006.
+
+L -- EDUCATION
+
 LB2395.25 Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking - for Students, Academics and Nonfiction Book Writers, 2017.
+
+P -- LANGUAGE AND LITERATURE
+
 PA2087.5 LaFleur, Richard A. Wheelock’s Latin 7th Edition. Harper Collins, 2011.
 PA2095 Oerberg, Hans Henning. Familia Romana. Focus, 2011.
 PA3201 Mcdonald, Marianne, and J Michael Walton. 2009. The Cambridge Companion to Greek and Roman Theatre. Cambridge Etc.: Cambridge University Press.
@@ -155,6 +183,9 @@ PS3618.O8685 Rothfuss, Patrick. The Wise Man’s Fear. Astra Publishing House, 2
 PS3619.A533 Sanderson, Brandon. Mistborn: The Final Empire. Macmillan, 2006.
 PS648.S3 Guran, Paula. The Year’s Best Science Fiction & Fantasy Novellas 2015. Prime Books, 2015.
 PZ7.T5744 Tolkien, J.R.R., and Douglas Allen Anderson. The Annotated Hobbit: The Hobbit, Or, There and Back Again. William Morrow, 2002.
+
+Q -- SCIENCE 
+
 Q173 Munroe, Randall. Thing Explainer: Complicated Stuff in Simple Words. Dey Street Books, 2015.
 Q173 Munroe, Randall. What If?: Serious Scientific Answers to Absurd Hypothetical Questions. Houghton Mifflin Harcourt, 2014.
 QA303.2 Weir, Maurice D., Joel Hass, and Frank R. Giordano. Thomas’ Calculus. Pearson Education India, 2005.
@@ -195,12 +226,22 @@ QA76.9.D3 Pratt, Philip J., and Joseph J. Adamski. Concepts of Database Manageme
 QA76.9.O35 Bronson, Gary J. Object-Oriented Program Development Using C++: A Class-Centered Approach. Course Technology, 2006.
 QC26 Sumpter, David. Soccermatics: Mathematical Adventures in the Beautiful Game Pro-Edition. Bloomsbury Publishing, 2016.
 QC794.6.G7 Hawking, Stephen, and Leonard Mlodinow. The Grand Design. Bantam, 2010.
+
+R -- MEDICINE
+
 RM237.73 Taubes, Gary. Why We Get Fat and What to Do about It. Knopf, 2011.
+
+T -- TECHNOLOGY
+
 TK5105.5 Dean, Tamara. Network+ Guide to Networks. Cengage Learning, 2009.
 TL785 Clark, John Drury. Ignition!: An Informal History of Liquid Rocket Propellants. Rutgers University Press Classics, 2018.
+
+U -- MILITARY SCIENCE
+
 U101 Miyamoto, Musashi, Miyamoto Musashi, and Thomas F. Cleary. The Book of Five Rings. Shambhala Publications, 2010.
 U101 Sun Tzu. The Art of War, 2009.
 U102 Von Clausewitz, Carl. On War. Princeton University Press, 1989.
+
 Unclassified Atlus, and Shigenori Soejima. Persona 4: Official Design Works. Udon Entertainment, 2012.
 Unclassified Caulfield, Anthony, and Nicola Culfield. Britsoft: An Oral History. Read-Only Memories, 2018.
 Unclassified Rockwell, Llewellyn H. Against the State: Anarcho-Capitalist Manifesto, 2014.
