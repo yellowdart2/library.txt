@@ -167,6 +167,7 @@ PR6039.O32 Tolkien, J.R.R. The Fellowship of the Ring: Being the First Part of T
 PR6039.O32 Tolkien, J.R.R. The Return of the King: Being the Third Part of The Lord of the Rings. William Morrow, 1993.
 PR6039.O32 Tolkien, J.R.R. The Two Towers: Being the Second Part of The Lord of the Rings. William Morrow, 1993.
 PR6039.O32 Tolkien, J.R.R. Unfinished Tales of Númenor and Middle-Earth. William Morrow Paperbacks, 2014.	
+PR6039.O32 Tolkien, J.R.R. (1981) 2023. The Letters of J.R.R. Tolkien. Edited by Humphrey Carpenter. New York, NY: HarperCollinsPublishers.
 PS3553.R48 Crichton, Michael. Sphere: A Novel. Knopf Publishing Group, 1987.
 PS3558.E63 Herbert, Frank. Dune. Penguin, 2016.
 PS3560.O7617 Jordan, Robert. The Eye of the World: Book One of “The Wheel of Time.” Macmillan, 1990.
