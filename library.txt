@@ -13,6 +13,7 @@ BF637.C4 Johnson, Spencer. Who Moved My Cheese?: An Amazing Way to Deal with Cha
 BF637.C45 Adler, Ronald Brian, Lawrence B. Rosenfeld, and Russell F. Proctor. Interplay: The Process of Interpersonal Communication. Oxford University Press, USA, 2010.
 BJ1589 Peterson, Jordan B. 12 Rules for Life: An Antidote to Chaos. Random House Canada, 2018.
 BL310 Hamilton, Edith. Mythology. Little, Brown, 2013.
+BL48.C5 Chesterton, G.K. (1925) 2024. The Everlasting Man. Robinia Classics.
 BL793.T7 Strauss, Barry S. The Trojan War: A New History. Simon and Schuster, 2006.
 BL860 McCoy, Daniel. The Viking Spirit: An Introduction to Norse Mythology and Religion, 2016.
 BR121.2 Lewis, Clive Staples. The Timeless Writings of C.S. Lewis. Familiy Christian Press, 2004.
@@ -43,6 +44,7 @@ D -- WORLD HISTORY AND HISTORY OF EUROPE, ASIA, AFRICA, AUSTRALIA, NEW ZEALAND, 
 
 D106 Wyman, Patrick. The Verge: Reformation, Renaissance, and Forty Years That Shook the World. Twelve, 2021.
 D16.8 Kant, Immanuel. 1963. On History. MacMillan Publishing Company. 
+D117 Jones, Dan. 2021. Powers and Thrones : A New History of the Middle Ages. [New York, NY]: Viking.
 D21 Wells, H. G. The Outline of History: The Roman Empire to the Great War. Barnes & Noble Publishing, 2004.
 D21.3 Carlin, Dan. Hardcore History: History at the Extremes. Harper, 2019.
 D58 Herodotus. The Histories. Penguin Classics, 2003.
@@ -50,10 +52,12 @@ DA16 Churchill, Winston S. The Birth of Britain (Barnes and Noble Library of Ess
 DC62.C2 Handford, S A. 1982. Caesar : The Conquest of Gaul. New York: Penguin Books.
 DF229.T5 Thucydides. The History of the Peloponnesian War: Revised Edition. Penguin Classics, 1954.
 DG231 Mackay, Christopher S. Ancient Rome: A Military and Political History. Cambridge University Press, 2007.
+DL65.P68 Price, Neil. 2020. Children of Ash and Elm. Basic Books.
 DS79.764.A63 Willink, Jocko, and Leif Babin. Extreme Ownership: How U.S. Navy SEALs Lead and Win (New Edition). St. Martin’s Press, 2017.
 
 E -- HISTORY OF THE AMERICAS
 
+E208 Mccullough, David. 2006. 1776. New York: Simon & Schuster Paperbacks.
 E457.2 Freiling, Thomas. Walking with Lincoln: Spiritual Strength from America’s Favorite President. Revell, 2009.
 E468 Catton, Bruce, and James M Mcpherson. 2005. The Civil War. Boston ; New York: Houghton Mifflin.
 E470.2 Catton, Bruce. 1976. The Army of the Potomac. New York: Doubleday.
@@ -147,6 +151,7 @@ PA4025.A5 Homer. The Odyssey. (Penguin Classics Deluxe Edition). Penguin, 1998.
 PA4414.A2 Sophocles. The Oedipus Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone. Plume, 1996.
 PA4414.A2 Sophocles, and E F Watling. 1953. Electra and Other Plays : Ajax, Electra, Women of Trachis, Philoctetes. Harmondsworth Middlesex ; New York: Penguin
 PA6807.A5 Virgil. The Aeneid: (Penguin Classics Deluxe Edition). Penguin, 2008.
+PA6706.G4 Tacitus, Raw Egg Nationalist. Germania: A New Translation & Commentary.
 PA3975.A2 Euripides, John Davie, and R B Rutherford. 2004. Electra and Other Plays. London ; New York: Penguin Books.
 PG3366 Tolstoy, Leo. War and Peace: 3-Volume Boxed Set; Introduction by R. F. Christian. Everyman’s Library, 1992.
 PL833.I7 Mishima, Yukio. The Temple of the Golden Pavilion: Introduction by Donald Keene. National Geographic Books, 1995.
