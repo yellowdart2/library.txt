@@ -43,10 +43,14 @@ CB53 Durant, Will. The Life of Greece: Being a History of Greek Civilization fro
 D -- WORLD HISTORY AND HISTORY OF EUROPE, ASIA, AFRICA, AUSTRALIA, NEW ZEALAND, ETC.
 
 D106 Wyman, Patrick. The Verge: Reformation, Renaissance, and Forty Years That Shook the World. Twelve, 2021.
+D157.A77 Asbridge, Thomas. 2011. The Crusades : The Authoritative History of the War for the Holy Land. New York: Ecco/Harpercollins Publishers.
 D16.8 Kant, Immanuel. 1963. On History. MacMillan Publishing Company. 
 D117 Jones, Dan. 2021. Powers and Thrones : A New History of the Middle Ages. [New York, NY]: Viking.
+D161.2 Runciman, Steven. 1975. A History of the Crusades. 1.
 D21 Wells, H. G. The Outline of History: The Roman Empire to the Great War. Barnes & Noble Publishing, 2004.
 D21.3 Carlin, Dan. Hardcore History: History at the Extremes. Harper, 2019.
+D25.5 DK. 2021. Battles Map by Map. Penguin.
+D258.W4 Wedgwood, C V. 2005. The Thirty Years War. New York: New York Review Books.
 D58 Herodotus. The Histories. Penguin Classics, 2003.
 DA16 Churchill, Winston S. The Birth of Britain (Barnes and Noble Library of Essential Reading): A History of the English-Speaking Peoples: Volume 1. Barnes & Noble Library of Esse, 2005.
 DC62.C2 Handford, S A. 1982. Caesar : The Conquest of Gaul. New York: Penguin Books.
@@ -123,7 +127,7 @@ HX833 Rachels, Christopher Chase. A Spontaneous Order: The Capitalist Case for a
 J -- POLITICAL SCIENCE 
 
 JA74.5 Marcus, George E., W. Russell Neuman, Michael MacKuen, and Ann N. Crigler. The Affect Effect: Dynamics of Emotion in Political Thinking and Behavior. University of Chicago Press, 2007.
-JC143.M38 Niccolò Machiavelli, and John Scott Ripon. 1810. The Prince. London: Printed For Sherwood, Neely, And Jones.
+JC143.M38 Niccolò Machiavelli, and John Scott Ripon. 1810.  The Prince London: Printed For Sherwood, Neely, And Jones.
 JC153 Hobbes, Thomas. Leviathan. Barnes & Noble Publishing, 2004.
 JC585 John Stuart Mill, and Elizabeth Rapaport. 1978. On Liberty. Indianapolis, In: Hackett Publishing Company Inc.
 JC71 Plato. The Republic: Introduction by Alexander Nehamas. National Geographic Books, 1993.
@@ -188,6 +192,7 @@ PS3602.A57 Baird, Jon, and Kevin Costner. The Explorers Guild: Volume One: A Pas
 PS3618.O8685 Rothfuss, Patrick. The Name of the Wind: 10th Anniversary Deluxe Edition. Penguin, 2017.
 PS3618.O8685 Rothfuss, Patrick. The Wise Man’s Fear. Astra Publishing House, 2011.
 PS3619.A533 Sanderson, Brandon. Mistborn: The Final Empire. Macmillan, 2006.
+PS3619.A533 Sanderson, Brandon. 2014. The Way of Kings. Book One, the Stormlight Archive. New York: Tor Fantasy.
 PS648.S3 Guran, Paula. The Year’s Best Science Fiction & Fantasy Novellas 2015. Prime Books, 2015.
 PZ7.T5744 Tolkien, J.R.R., and Douglas Allen Anderson. The Annotated Hobbit: The Hobbit, Or, There and Back Again. William Morrow, 2002.
 
