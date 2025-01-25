@@ -255,6 +255,7 @@ U -- MILITARY SCIENCE
 U101 Miyamoto, Musashi, Miyamoto Musashi, and Thomas F. Cleary. The Book of Five Rings. Shambhala Publications, 2010.
 U101 Sun Tzu. The Art of War, 2009.
 U102 Von Clausewitz, Carl. On War. Princeton University Press, 1989.
+U875 Fulton, Michael S. 2020. Siege Warfare during the Crusades. Pen and Sword.
 
 Unclassified Atlus, and Shigenori Soejima. Persona 4: Official Design Works. Udon Entertainment, 2012.
 Unclassified Caulfield, Anthony, and Nicola Culfield. Britsoft: An Oral History. Read-Only Memories, 2018.
