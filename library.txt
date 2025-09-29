@@ -29,6 +29,7 @@ BT202 Strobel, Lee. The Case for Christ. Zondervan Publishing Company, 2007.
 BT75.2	Dewolf, L. Harold. The Case for Theology in Liberal Perspective. Westminster Press, 1959.
 BT75.2 Grudem, Wayne A. Bible Doctrine: Essential Teachings of the Christian Faith. HarperCollins Christian Publishing, 1999.
 BT761.2 Piper, John. Future Grace. Multnomah, 2005.
+BT97.2 .L49 Lewis, C S. (1947) 2012. Miracles. London: Collins.
 BV4501.3 Idleman, Kyle. Not a Fan: Becoming a Completely Committed Follower of Jesus. Zondervan, 2011.
 BV4528.2 Morley, Patrick. Ten Secrets for the Man in the Mirror: Startling Ideas about True Happiness. Harper Collins, 2002.
 BV4529 Crouch, Andy. 2017. The Tech-Wise Family : Everyday Steps for Putting Technology in Its Proper Place. Grand Rapids: Baker Books.
@@ -54,6 +55,7 @@ D21.3 Carlin, Dan. Hardcore History: History at the Extremes. Harper, 2019.
 D25.5 DK. 2021. Battles Map by Map. Penguin.
 D258.W4 Wedgwood, C V. 2005. The Thirty Years War. New York: New York Review Books.
 D58 Herodotus. The Histories. Penguin Classics, 2003.
+D58.H4713 Herodotus. 2009. The Landmark Herodotus: The Histories. Edited by Robert B Strassler. Translated by Andrea L Purvis. New York: Anchor Books.
 DA16 Churchill, Winston S. The Birth of Britain (Barnes and Noble Library of Essential Reading): A History of the English-Speaking Peoples: Volume 1. Barnes & Noble Library of Esse, 2005.
 DC62.C2 Handford, S A. 1982. Caesar : The Conquest of Gaul. New York: Penguin Books.
 DF229.T5 Thucydides. The History of the Peloponnesian War: Revised Edition. Penguin Classics, 1954.
@@ -152,8 +154,10 @@ PA2087.5 LaFleur, Richard A. Wheelock’s Latin 7th Edition. Harper Collins, 201
 PA2095 Oerberg, Hans Henning. Familia Romana. Focus, 2011.
 PA3201 Mcdonald, Marianne, and J Michael Walton. 2009. The Cambridge Companion to Greek and Roman Theatre. Cambridge Etc.: Cambridge University Press.
 PA3623.E5 West, Martin Litchfield. Greek Epic Fragments from the Seventh to the Fifth Centuries BC, 2003.
+PA3877.A1 Aristophanes, and Paul Roche. 2005. The Complete Plays. New York, N.Y.: New American Library.
 PA4010.E5 Hesiodos, Theognis, and Dorothea Wender. 1973. Theogony ; Works and Days / Hesiod : XElegies. Harmondsworth, Middlesex: Penguin, 19.
 PA4025.A2 Homer. The Iliad: (Penguin Classics Deluxe Edition). Penguin, 1998.
+PA4025.A2 Homer, Richmond Lattimore, and Richard Martin. 2011. The Iliad of Homer. University Of Chicago Press.
 PA4025.A5 Homer. The Odyssey. (Penguin Classics Deluxe Edition). Penguin, 1998.
 PA4414.A2 Sophocles. The Oedipus Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone. Plume, 1996.
 PA4414.A2 Sophocles, and E F Watling. 1953. Electra and Other Plays : Ajax, Electra, Women of Trachis, Philoctetes. Harmondsworth Middlesex ; New York: Penguin
@@ -176,6 +180,7 @@ PR6039.O32 Tolkien, J. R. R. The Children of Hurin. Mariner Books, 2008.
 PR6039.O32 Tolkien, J. R. R. The Silmarillion. William Morrow, 2001.
 PR6039.O32 Tolkien, J. R. R. Unfinished Tales Illustrated Edition. Houghton Mifflin, 2020.
 PR6039.O32 Tolkien, J.R.R. Beren and Lúthien. Houghton Mifflin, 2017.
+PR6039.O32 Tolkien, J. R. R. The Hobbit Illustrated by the Author. William Morrow. 2023.
 PR6039.O32 Tolkien, J.R.R. The Fellowship of the Ring: Being the First Part of The Lord of the Rings, 1987.
 PR6039.O32 Tolkien, J.R.R. The Return of the King: Being the Third Part of The Lord of the Rings. William Morrow, 1993.
 PR6039.O32 Tolkien, J.R.R. The Two Towers: Being the Second Part of The Lord of the Rings. William Morrow, 1993.
@@ -267,3 +272,4 @@ Unclassified Sadler, Matthew. The Silicon Road to Chess Improvement: Chess Engin
 Unclassified Romero, John. 2023. Doom Guy. Abrams.
 Unclassified Posnanski, Joe. 2023. Why We Love Baseball. Penguin.
 Unclassified Oerberg, Hans H. 2005. Exercitia Latina. I. Indianapolis: Focus, An Imprint Of Hackett Publishing Company, Inc.
+Unclassified Connelly, Bill. 2025. Forward Progress. Chicago Press. 
