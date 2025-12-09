@@ -18,6 +18,7 @@ BL793.T7 Strauss, Barry S. The Trojan War: A New History. Simon and Schuster, 20
 BL860 McCoy, Daniel. The Viking Spirit: An Introduction to Norse Mythology and Religion, 2016.
 BR121.2 Lewis, Clive Staples. The Timeless Writings of C.S. Lewis. Familiy Christian Press, 2004.
 BR145.3 Holland, Tom. 2010. The Forge of Christendom : The End of Days and the Epic Rise of the West. New York: Anchor Books.
+BR160.E5 Eusebius, Of Caesarea Bishop Of Caesarea, and Christian Frederic Crusé. 2009. Eusebius’ Ecclesiastical History. Peabody, Mass.: Hendrickson Publishers.
 BS1235.3 Hamilton, Victor P. The Book of Genesis, Chapters 1-17. Wm. B. Eerdmans Publishing, 1990.
 BS1235.3 Hamilton, Victor P. 1995. The Book of Genesis. Chapters 18-50. Grand Rapids, Mich.: Wm. B. Eerdmans Pub. Co.
 BS1245.53 Carpenter, Eugene E. 2016. Exodus. Bellingham Wa: Lexham Press.
@@ -60,6 +61,7 @@ DA16 Churchill, Winston S. The Birth of Britain (Barnes and Noble Library of Ess
 DC62.C2 Handford, S A. 1982. Caesar : The Conquest of Gaul. New York: Penguin Books.
 DF229.T5 Thucydides. The History of the Peloponnesian War: Revised Edition. Penguin Classics, 1954.
 DG231 Mackay, Christopher S. Ancient Rome: A Military and Political History. Cambridge University Press, 2007.
+DL468.S4913 Skeie, Tore. 2022. Wolf Age : The Vikings, the Anglo-Saxons and the Battle for the North Sea Empire. Steerforth Press.
 DL65.P68 Price, Neil. 2020. Children of Ash and Elm. Basic Books.
 DS38.6 Amin Maalouf. 1989. The Crusades through Arab Eyes. New York Schocken.
 DS79.764.A63 Willink, Jocko, and Leif Babin. Extreme Ownership: How U.S. Navy SEALs Lead and Win (New Edition). St. Martin’s Press, 2017.
@@ -154,6 +156,7 @@ PA2087.5 LaFleur, Richard A. Wheelock’s Latin 7th Edition. Harper Collins, 201
 PA2095 Oerberg, Hans Henning. Familia Romana. Focus, 2011.
 PA3201 Mcdonald, Marianne, and J Michael Walton. 2009. The Cambridge Companion to Greek and Roman Theatre. Cambridge Etc.: Cambridge University Press.
 PA3623.E5 West, Martin Litchfield. Greek Epic Fragments from the Seventh to the Fifth Centuries BC, 2003.
+PA3870.A55 Apollodorus Grammaticus, Gelehrter Griechenland, and Robin Hard. 2008. The Library of Greek Mythology. Oxford: Oxford University Press.
 PA3877.A1 Aristophanes, and Paul Roche. 2005. The Complete Plays. New York, N.Y.: New American Library.
 PA4010.E5 Hesiodos, Theognis, and Dorothea Wender. 1973. Theogony ; Works and Days / Hesiod : XElegies. Harmondsworth, Middlesex: Penguin, 19.
 PA4025.A2 Homer. The Iliad: (Penguin Classics Deluxe Edition). Penguin, 1998.
