@@ -3,15 +3,18 @@ B -- PHILOSOPHY. PSYCHOLOGY. RELIGION
 B187.5 Waterfield, Robin. 2009. The First Philosophers : The Pre-Socratics and Sophists. Oxford: Oxford University Press.
 B3312.E5 Friedrich Wilhelm Nietzsche. 2014. Beyond Good and Evil. San Bernardino, Ca: Millennium Publications.
 B3313.A43 Nietzsche, Friedrich. Thus Spoke Zarathustra. Spark Educational Publishing, 2005.
+B3313.J43 Friedrich Wilhelm Nietzsche. 2014. Beyond Good and Evil. San Bernardino, Ca: Millennium Publications.
 B3316.A2 Friedrich Nietzsche. 2018. Ecce Homo.
 B358 Cooper, John M, and D S Hutchinson. 1997. Plato: Complete Works. Indianapolis, Ind.: Hackett Publishing Company.
 B358.G78 Plato. 2016. Five Dialogues : Euthyphro, Apology, Crito, Meno, Phaedo. Brantford, Ontario: W. Ross Macdonald School Resource Services Library.
 B407 Aristotle. 1984. The Complete Works of Aristotle / 1. Princeton, N.J.: Princeton Univ. Pr. 
+B407 Aristotle, and Jonathan Barnes. 1995. The Complete Works of Aristotle : The Revised Oxford Translation. Vol. 2. Princeton, N.J.: Princeton University Press.
 B407.A26 Aristotle, Terence Irwin, and Gail Fine. 1996. Aristotle : Introductory Readings. Indianapolis, Ind.: Hackett Pub.
 B580 Aurelius, Marcus. Meditations. The Classics Club, 1973.
 B659.C2 Boethius. 1897. The Consolation of Philosophy. Elliot Stock.
 BF637.C4 Johnson, Spencer. Who Moved My Cheese?: An Amazing Way to Deal with Change in Your Work and in Your Life, 1998.
 BF637.C45 Adler, Ronald Brian, Lawrence B. Rosenfeld, and Russell F. Proctor. Interplay: The Process of Interpersonal Communication. Oxford University Press, USA, 2010.
+BJ1460.L8 Martin, Luther. (1957) 2006. The Bondage of the Will. Translated by J.I. Packer and O.R. Johnston. Grand Rapids, MI: Fleming H. Revell.
 BJ1589 Peterson, Jordan B. 12 Rules for Life: An Antidote to Chaos. Random House Canada, 2018.
 BL310 Hamilton, Edith. Mythology. Little, Brown, 2013.
 BL48.C5 Chesterton, G.K. (1925) 2024. The Everlasting Man. Robinia Classics.
@@ -20,17 +23,21 @@ BL860 McCoy, Daniel. The Viking Spirit: An Introduction to Norse Mythology and R
 BR121.2 Lewis, Clive Staples. The Timeless Writings of C.S. Lewis. Familiy Christian Press, 2004.
 BR145.3 Holland, Tom. 2010. The Forge of Christendom : The End of Days and the Epic Rise of the West. New York: Anchor Books.
 BR160.E5 Eusebius, Of Caesarea Bishop Of Caesarea, and Christian Frederic Crusé. 2009. Eusebius’ Ecclesiastical History. Peabody, Mass.: Hendrickson Publishers.
+BS1140.2.B63 Boadt, Lawrence. 1984. Reading the Old Testament : An Introduction. New York, N.Y.: Paulist Press.
 BS1235.3 Hamilton, Victor P. The Book of Genesis, Chapters 1-17. Wm. B. Eerdmans Publishing, 1990.
 BS1235.3 Hamilton, Victor P. 1995. The Book of Genesis. Chapters 18-50. Grand Rapids, Mich.: Wm. B. Eerdmans Pub. Co.
 BS1245.53 Carpenter, Eugene E. 2016. Exodus. Bellingham Wa: Lexham Press.
+BS2330.2.J64 Johnson, Luke Timothy. 1986. The Writings of the New Testament. Augsburg Fortress Publishing.
 BS2575.53 France, Richard T. 2007. The Gospel of Matthew. Grand Rapids, Mich.: Eerdmans.
 BS1830.E7 Charles, R.H. 2021. The Books of Enoch and the Book of Jubilees. LindyPress.net. 2021. 
 BS440 Smith, William. Smith’s Bible Dictionary. Hendrickson Publishers, 1990.
+BS440.V746 Vine, William Edwy. 1985. Vine’s Expository Dictionary of Biblical Words. Nelsonword Publishing Group.
 BS491.2	Pfeiffer, Charles F., and Everett Falconer Harrison. The Wycliffe Bible Commentary. Moody Publishers, 1962.
 BT202 Strobel, Lee. The Case for Christ. Zondervan Publishing Company, 2007.
 BT75.2	Dewolf, L. Harold. The Case for Theology in Liberal Perspective. Westminster Press, 1959.
 BT75.2 Grudem, Wayne A. Bible Doctrine: Essential Teachings of the Christian Faith. HarperCollins Christian Publishing, 1999.
 BT761.2 Piper, John. Future Grace. Multnomah, 2005.
+BT77.L348 Lewis, C S. 2001. Mere Christianity : A Revised and Amplified Edition, with a New Introduction, of the Three Books, Broadcast Talks, Christian Behaviour, and beyond Personality. San Francisco: Harpersanfrancisco.
 BT97.2 .L49 Lewis, C S. (1947) 2012. Miracles. London: Collins.
 BV4501.3 Idleman, Kyle. Not a Fan: Becoming a Completely Committed Follower of Jesus. Zondervan, 2011.
 BV4528.2 Morley, Patrick. Ten Secrets for the Man in the Mirror: Startling Ideas about True Happiness. Harper Collins, 2002.
@@ -55,6 +62,7 @@ D117 Jones, Dan. 2021. Powers and Thrones : A New History of the Middle Ages. [N
 D161.2 Runciman, Steven. 1975. A History of the Crusades. 1.
 D21 Wells, H. G. The Outline of History: The Roman Empire to the Great War. Barnes & Noble Publishing, 2004.
 D21.3 Carlin, Dan. Hardcore History: History at the Extremes. Harper, 2019.
+D215.M342 Mahan, A.T. 1915. The Influence of Sea Power Upon History, 1660-1783. 25th ed. Boston: Little, Brown, And Company.
 D25.5 DK. 2021. Battles Map by Map. Penguin.
 D258.W4 Wedgwood, C V. 2005. The Thirty Years War. New York: New York Review Books.
 D58 Herodotus. The Histories. Penguin Classics, 2003.
@@ -63,6 +71,7 @@ DA16 Churchill, Winston S. The Birth of Britain (Barnes and Noble Library of Ess
 DC62.C2 Handford, S A. 1982. Caesar : The Conquest of Gaul. New York: Penguin Books.
 DF229.T5 Thucydides. The History of the Peloponnesian War: Revised Edition. Penguin Classics, 1954.
 DG231 Mackay, Christopher S. Ancient Rome: A Military and Political History. Cambridge University Press, 2007.
+DG231.B43 Beard, Mary. 2015. SPQR: A History of Ancient Rome. New York: Liverlight Publishing Corporation.
 DL468.S4913 Skeie, Tore. 2022. Wolf Age : The Vikings, the Anglo-Saxons and the Battle for the North Sea Empire. Steerforth Press.
 DL65.P68 Price, Neil. 2020. Children of Ash and Elm. Basic Books.
 DS38.6 Amin Maalouf. 1989. The Crusades through Arab Eyes. New York Schocken.
@@ -70,7 +79,7 @@ DS79.764.A63 Willink, Jocko, and Leif Babin. Extreme Ownership: How U.S. Navy SE
 
 E -- HISTORY OF THE AMERICAS
 
-E208 Mccullough, David. 2006. 1776. New York: Simon & Schuster Paperbacks.
+E208 McCullough, David. 2006. 1776. New York: Simon & Schuster Paperbacks.
 E457.2 Freiling, Thomas. Walking with Lincoln: Spiritual Strength from America’s Favorite President. Revell, 2009.
 E468 Catton, Bruce, and James M Mcpherson. 2005. The Civil War. Boston ; New York: Houghton Mifflin.
 E470.2 Catton, Bruce. 1976. The Army of the Potomac. New York: Doubleday.
@@ -113,6 +122,7 @@ GV885.515.N37 Serrano, Shea. Basketball (and Other Things): A Collection of Ques
 GV943.2 Hornby, Nick. Fever Pitch. Penguin, 1998.
 GV943.55.F36 Cox, Michael. The Mixer: The Story of the Premier League, from Route One to False Nines. HarperSport, 2017.
 GV943.9.S64 Kuper, Simon. Soccernomics: Why England Loses, Why Spain, Germany, and Brazil Win, and Why the U.S., Japan, Australia-and Even Iraq-Are Destined to Become the Kings of the World s Most Popular Sport. Bold Type Books, 2014.
+GV943.W555 Wilson, Jonathan. 2013. Inverting the Pyramid : The History of Soccer Tactics. New York: Nation Books.
 GV944.N4 Winner, David. Brilliant Orange: The Neurotic Genius of Dutch Soccer. Harry N. Abrams, 2008.
 GV964.H6 Sampson, Curt. Hogan. Rutledge Hill Press, 1996.
 GV965 Hogan, Ben, and Herbert Warren Wind. Ben Hogan’s Five Lessons: The Modern Fundamentals of Golf. Simon and Schuster, 1985.
@@ -121,6 +131,7 @@ GV965 Young, Adam. The Practice Manual: The Ultimate Guide for Golfers, 2015.
 
 H -- SOCIAL SCIENCES 
 
+HB171.H47 Hazlitt, Henry. 2014. Economics in One Lesson : The Shortest & Surest Way to Understand Basic Economics. New York: Three Rivers Press, A Member Of The Crown Publishing Group.
 HC105.6 Lowenstein, Roger. 2022. Ways and Means. Penguin.
 HD57.7 Lencioni, Patrick M. The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues. John Wiley & Sons, 2016.
 HD57.7 Willink, Jocko, and Leif Babin. The Dichotomy of Leadership. Book. St. Martin’s Press, 2018.
@@ -210,6 +221,8 @@ PS3618.O8685 Rothfuss, Patrick. The Wise Man’s Fear. Astra Publishing House, 2
 PS3619.A533 Sanderson, Brandon. Mistborn: The Final Empire. Macmillan, 2006.
 PS3619.A533 Sanderson, Brandon. 2014. The Way of Kings. Book One, the Stormlight Archive. New York: Tor Fantasy.
 PS648.S3 Guran, Paula. The Year’s Best Science Fiction & Fantasy Novellas 2015. Prime Books, 2015.
+PZ3.H3736 Hemingway, Ernest. 2016. The Old Man and the Sea. Benediction Books.
+PZ3.H981 Huxley, Aldous. (1932) 2012. Brave New World. Turtleback Books.
 PZ7.T5744 Tolkien, J.R.R., and Douglas Allen Anderson. The Annotated Hobbit: The Hobbit, Or, There and Back Again. William Morrow, 2002.
 
 Q -- SCIENCE 
@@ -226,6 +239,7 @@ QA76.6 Abelson, Harold, and Gerald Jay Sussman. Structure and Interpretation of 
 QA76.63	Farrell, Joyce. Programming Logic and Design, Introductory. Cengage Learning, 2010.
 QA76.64 Weisfeld, Matt. The Object-Oriented Thought Process. Addison-Wesley Professional, 2019.
 QA76.73 Zhang, Tony. Teach Yourself C in 24 Hours. Sams Publishing, 1997.
+QA76.73.C15 Sedgewick, Robert. 1998. Algorithms in C. Reading, Massachusetts: Addison-Wesley.
 QA76.73.C15	Kernighan, Brian W., and Dennis M. Ritchie. The C Programming Language. Prentice Hall, 1978.
 QA76.73.C15	Seacord, Robert C. Effective C: An Introduction to Professional C Programming. No Starch Press, 2020.
 QA76.73.C15 Bronson, Gary J., and Stephen J. Menconi. A First Book of ANSI C: Fundamentals of C Programming. Course Technology, 1996.
@@ -241,6 +255,7 @@ QA76.73.J39	Morrison, Michael. Head First JavaScript. “O’Reilly Media, Inc.,
 QA76.73.P98 Guttag, John V. Introduction to Computation and Programming Using Python, Second Edition: With Application to Understanding Data. MIT Press, 2016.
 QA76.73.P98 Matthes, Eric. Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming. No Starch Press, 2019.
 QA76.73.R87	 Klabnik, Steve, and Carol Nichols. The Rust Programming Language, 2nd Edition. No Starch Press, 2023.
+QA76.76.C672 Lengyel, Eric. 2021. Foundations of Game Engine Development, Volume 1.
 QA76.76.C672 Adams, Jim. Programming Role Playing Games with DirectX, 2002.
 QA76.76.C672 LaMothe, André. Black Art of 3D Game Programming. Waite Group Press, 1995.
 QA76.76.C672 LaMothe, André. Tricks of the Windows Game Programming Gurus. Sams Publishing, 2002.
