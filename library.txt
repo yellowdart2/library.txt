@@ -10,6 +10,7 @@ B358.G78 Plato. 2016. Five Dialogues : Euthyphro, Apology, Crito, Meno, Phaedo. 
 B407 Aristotle. 1984. The Complete Works of Aristotle / 1. Princeton, N.J.: Princeton Univ. Pr. 
 B407 Aristotle, and Jonathan Barnes. 1995. The Complete Works of Aristotle : The Revised Oxford Translation. Vol. 2. Princeton, N.J.: Princeton University Press.
 B407.A26 Aristotle, Terence Irwin, and Gail Fine. 1996. Aristotle : Introductory Readings. Indianapolis, Ind.: Hackett Pub.
+B430.B67 Bostock, David. 2000. Aristotle’s Ethics. Oxford ; New York: Oxford University Press.
 B430.S96 Aristotle. 2019. Nicomachean Ethics. Translated by Terence Irwin. Third. Indianapolis: Hackett Publishing Company, Inc.
 B481.N3813 Natali, Carlo. 2022. Aristotle. Princeton University Press.
 B485.C35 Barnes, Jonathan. 2009. The Cambridge Companion to Aristotle. Cambridge Cambridge Univ. Press.
@@ -225,7 +226,6 @@ PS3618.O8685 Rothfuss, Patrick. The Wise Man’s Fear. Astra Publishing House, 2
 PS3619.A533 Sanderson, Brandon. Mistborn: The Final Empire. Macmillan, 2006.
 PS3619.A533 Sanderson, Brandon. 2014. The Way of Kings. Book One, the Stormlight Archive. New York: Tor Fantasy.
 PS648.S3 Guran, Paula. The Year’s Best Science Fiction & Fantasy Novellas 2015. Prime Books, 2015.
-PZ3.H3736 Hemingway, Ernest. 2016. The Old Man and the Sea. Benediction Books.
 PZ3.H981 Huxley, Aldous. (1932) 2012. Brave New World. Turtleback Books.
 PZ7.T5744 Tolkien, J.R.R., and Douglas Allen Anderson. The Annotated Hobbit: The Hobbit, Or, There and Back Again. William Morrow, 2002.
 
