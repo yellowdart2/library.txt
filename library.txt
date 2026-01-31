@@ -173,6 +173,7 @@ P -- LANGUAGE AND LITERATURE
 
 PA817.D35 Davis, William Hersey. 1923. Beginner’s Grammar of the Greek New Testament. New York: Harper & Brothers.
 PA2087.5 LaFleur, Richard A. Wheelock’s Latin 7th Edition. Harper Collins, 2011.
+PA2087.A525 Allen, Joseph Henry, and James Bradstreet Greenough. 1983. Allen and Greenough’s New Latin Grammar for Schools and Colleges. Aristide D. Caratzas, Publisher.
 PA2095 Oerberg, Hans Henning. Familia Romana. Focus, 2011.
 PA2365.E5 Donald Penistan Simpson. 2003. Cassell’s Latin Dictionary : Latin-English, English-Latin. New York: Wiley.
 PA3201 Mcdonald, Marianne, and J Michael Walton. 2009. The Cambridge Companion to Greek and Roman Theatre. Cambridge Etc.: Cambridge University Press.
@@ -196,6 +197,7 @@ PL992.26.K36 Kang, Han. The Vegetarian: A Novel. Hogarth, 2016.
 PQ2605.A3734 Camus, Albert. The Plague. Vintage, 1991.	
 PR1583 J R R Tolkien, and Christopher Tolkien. 2014. Beowulf. Boston: Houghton Mifflin Harcourt.
 PR6025.I79 Mirrlees, Hope. Lud-in-the-Mist. Wildside Press, 2013.
+PR6029.R8 Orwell, George. (1949) 2023. 1984. New York, New York: Signet Classics.
 PR6039.O32 Hammond, Wayne G., and Christina Scull. The Lord of the Rings: A Reader’s Companion. William Morrow, 2005.
 PR6039.O32 Tolkien, Christopher, and J. R. R. Tolkien. The History of Middle-Earth, Part One. William Morrow, 2020.
 PR6039.O32 Tolkien, Christopher, and J. R. R. Tolkien. The History of Middle-Earth, Part Three. William Morrow, 2020.
