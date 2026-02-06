@@ -263,6 +263,7 @@ QA76.73.J39	Morrison, Michael. Head First JavaScript. “O’Reilly Media, Inc.,
 QA76.73.P98 Guttag, John V. Introduction to Computation and Programming Using Python, Second Edition: With Application to Understanding Data. MIT Press, 2016.
 QA76.73.P98 Matthes, Eric. Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming. No Starch Press, 2019.
 QA76.73.R87	 Klabnik, Steve, and Carol Nichols. The Rust Programming Language, 2nd Edition. No Starch Press, 2023.
+QA76.76.C672 Deloura, Mark A. 2007. Game Programming Gems. Boston, Ma: Charles River Media.
 QA76.76.C672 Lengyel, Eric. 2021. Foundations of Game Engine Development, Volume 1.
 QA76.76.C672 Adams, Jim. Programming Role Playing Games with DirectX, 2002.
 QA76.76.C672 LaMothe, André. Black Art of 3D Game Programming. Waite Group Press, 1995.
