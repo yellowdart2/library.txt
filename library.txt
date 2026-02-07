@@ -10,6 +10,7 @@ B358.G78 Plato. 2016. Five Dialogues : Euthyphro, Apology, Crito, Meno, Phaedo. 
 B407 Aristotle. 1984. The Complete Works of Aristotle / 1. Princeton, N.J.: Princeton Univ. Pr. 
 B407 Aristotle, and Jonathan Barnes. 1995. The Complete Works of Aristotle : The Revised Oxford Translation. Vol. 2. Princeton, N.J.: Princeton University Press.
 B407.A26 Aristotle, Terence Irwin, and Gail Fine. 1996. Aristotle : Introductory Readings. Indianapolis, Ind.: Hackett Pub.
+B415.A5 Aristotele, and C D C Reeve. 2017. De Anima. Indianapolis ; Cambridge Hackett Publishing Company, Inc.
 B430.B67 Bostock, David. 2000. Aristotle’s Ethics. Oxford ; New York: Oxford University Press.
 B430.S96 Aristotle. 2019. Nicomachean Ethics. Translated by Terence Irwin. Third. Indianapolis: Hackett Publishing Company, Inc.
 B481.N3813 Natali, Carlo. 2022. Aristotle. Princeton University Press.
