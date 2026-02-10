@@ -159,6 +159,7 @@ JC585 John Stuart Mill, and Elizabeth Rapaport. 1978. On Liberty. Indianapolis, 
 JC71 Plato. The Republic: Introduction by Alexander Nehamas. National Geographic Books, 1993.
 JC71.A41 Aristotle. The Politics. Penguin UK, 1981.
 JC71.A41 Aristotle, and C D C Reeve. 2017. Politics : A New Translation. Indianapolis, Indiana: Hackett Publishing Company, Inc.
+JC71.A7 Pangle, Thomas L. 2014. Aristotle’s Teaching in the Politics. Chicago ; London: University Of Chicago Press.
 JK1967 Flanigan, William H, and N. Zingale. Political Behavior of American Electorate 11th Edition. C Q Press College, 2006.
 JZ1480 Mr. Peter Zeihan. 2023. The Accidental Superpower: 10 Years On. Hachette UK.
 
