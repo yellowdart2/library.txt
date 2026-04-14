@@ -11,6 +11,7 @@ B407 Aristotle. 1984. The Complete Works of Aristotle / 1. Princeton, N.J.: Prin
 B407 Aristotle, and Jonathan Barnes. 1995. The Complete Works of Aristotle : The Revised Oxford Translation. Vol. 2. Princeton, N.J.: Princeton University Press.
 B407.A26 Aristotle, Terence Irwin, and Gail Fine. 1996. Aristotle : Introductory Readings. Indianapolis, Ind.: Hackett Pub.
 B415.A5 Aristotele, and C D C Reeve. 2017. De Anima. Indianapolis ; Cambridge Hackett Publishing Company, Inc.
+B415.B46 José Luis Bermúdez, and Charles H Gregory. 2025. Aristotle’s de Anima. Oxford University Press.
 B430.B67 Bostock, David. 2000. Aristotle’s Ethics. Oxford ; New York: Oxford University Press.
 B430.S96 Aristotle. 2019. Nicomachean Ethics. Translated by Terence Irwin. Third. Indianapolis: Hackett Publishing Company, Inc.
 B481.N3813 Natali, Carlo. 2022. Aristotle. Princeton University Press.
