@@ -14,8 +14,10 @@ B415.A5 Aristotele, and C D C Reeve. 2017. De Anima. Indianapolis ; Cambridge Ha
 B415.B46 José Luis Bermúdez, and Charles H Gregory. 2025. Aristotle’s de Anima. Oxford University Press.
 B430.B67 Bostock, David. 2000. Aristotle’s Ethics. Oxford ; New York: Oxford University Press.
 B430.S96 Aristotle. 2019. Nicomachean Ethics. Translated by Terence Irwin. Third. Indianapolis: Hackett Publishing Company, Inc.
+B434.A5 Aristotle. 1998. Metaphysics. Translated by Hugh Lawson-Tancred. London: Penguin Books.
 B481.N3813 Natali, Carlo. 2022. Aristotle. Princeton University Press.
 B485.C35 Barnes, Jonathan. 2009. The Cambridge Companion to Aristotle. Cambridge Cambridge Univ. Press.
+B485.L43 Lear, Jonathan. 1988. Aristotle : The Desire to Understand. New York ; Cambridge: Cambridge University Press.
 B580 Aurelius, Marcus. Meditations. The Classics Club, 1973.
 B659.C2 Boethius. 1897. The Consolation of Philosophy. Elliot Stock.
 BF637.C4 Johnson, Spencer. Who Moved My Cheese?: An Amazing Way to Deal with Change in Your Work and in Your Life, 1998.
@@ -200,6 +202,7 @@ PL833.I7 Mishima, Yukio. The Temple of the Golden Pavilion: Introduction by Dona
 PL856.U673 Murakami, Haruki. Hard-Boiled Wonderland and the End of the World. Vintage, 1991.
 PL992.26.K36 Kang, Han. The Vegetarian: A Novel. Hogarth, 2016.
 PN1040.A53 Aristotle, and Stephen Halliwell. 1987. The Poetics of Aristotle. Bristol Classical Press.
+PN173.A7 Aristotle, and W Rhys Roberts. 2018. Rhetoric.
 PQ2605.A3734 Camus, Albert. The Plague. Vintage, 1991.	
 PR1583 J R R Tolkien, and Christopher Tolkien. 2014. Beowulf. Boston: Houghton Mifflin Harcourt.
 PR6025.I79 Mirrlees, Hope. Lud-in-the-Mist. Wildside Press, 2013.
