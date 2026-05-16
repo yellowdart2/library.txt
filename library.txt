@@ -68,9 +68,11 @@ D106 Wyman, Patrick. The Verge: Reformation, Renaissance, and Forty Years That S
 D117 Jones, Dan. 2021. Powers and Thrones : A New History of the Middle Ages. [New York, NY]: Viking.
 D156.I27 Ibrahim, Raymond. 2022. Defenders of the West. Simon and Schuster.
 D157.A77 Asbridge, Thomas. 2011. The Crusades : The Authoritative History of the War for the Holy Land. New York: Ecco/Harpercollins Publishers.
+D157.O48 Harris, Jonathan, and Jonathan Harris. 2026. The Oxford Illustrated History of the Crusades.
 D160 Smail, Raymond C. 1995. Crusading Warfare, 1097-1193. Cambridge: Cambridge Univ. Press.
 D161.1.F57 Peters, Edward. 1998. The First Crusade “the Chronicle of Fulcher of Chartres” and Other Source Materials. Philadelphia University Of Pennsylvania Press.
 D161.2 Runciman, Steven. 1975. A History of the Crusades. 1.
+D164.Q4 Geoffrey de Villehardouin, and Jean de Joinville. 2009. Knights of the Cross.
 D21 Wells, H. G. The Outline of History: The Roman Empire to the Great War. Barnes & Noble Publishing, 2004.
 D21.3 Carlin, Dan. Hardcore History: History at the Extremes. Harper, 2019.
 D215.M342 Mahan, A.T. 1915. The Influence of Sea Power Upon History, 1660-1783. 25th ed. Boston: Little, Brown, And Company.
@@ -273,6 +275,7 @@ QA76.73.P98 Guttag, John V. Introduction to Computation and Programming Using Py
 QA76.73.P98 Matthes, Eric. Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming. No Starch Press, 2019.
 QA76.73.R87	 Klabnik, Steve, and Carol Nichols. The Rust Programming Language, 2nd Edition. No Starch Press, 2023.
 QA76.76.C672 Deloura, Mark A. 2007. Game Programming Gems. Boston, Ma: Charles River Media.
+QA76.76.C672 Deloura, Mark A. 2001. Game Programming Gems 2. Hingham, Massachusetts: Charles River Media.
 QA76.76.C672 Lengyel, Eric. 2021. Foundations of Game Engine Development, Volume 1.
 QA76.76.C672 Adams, Jim. Programming Role Playing Games with DirectX, 2002.
 QA76.76.C672 LaMothe, André. Black Art of 3D Game Programming. Waite Group Press, 1995.
