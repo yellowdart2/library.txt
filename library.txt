@@ -211,6 +211,7 @@ PQ2605.A3734 Camus, Albert. The Plague. Vintage, 1991.
 PR1583 J R R Tolkien, and Christopher Tolkien. 2014. Beowulf. Boston: Houghton Mifflin Harcourt.
 PR6025.I79 Mirrlees, Hope. Lud-in-the-Mist. Wildside Press, 2013.
 PR6029.R8 Orwell, George. (1949) 2023. 1984. New York, New York: Signet Classics.
+PR6029.R8 Orwell, George. 2024. Animal Farm (Collector’s Edition). Wordsworth Editions.
 PR6039.O32 Hammond, Wayne G., and Christina Scull. The Lord of the Rings: A Reader’s Companion. William Morrow, 2005.
 PR6039.O32 Tolkien, Christopher, and J. R. R. Tolkien. The History of Middle-Earth, Part One. William Morrow, 2020.
 PR6039.O32 Tolkien, Christopher, and J. R. R. Tolkien. The History of Middle-Earth, Part Three. William Morrow, 2020.
