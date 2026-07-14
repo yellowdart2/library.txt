@@ -103,6 +103,7 @@ E672 Chernow, Ron. Grant. Penguin, 2017.
 E840.8.T65 Hoffman, David Emanuel. The Billion Dollar Spy: A True Story of Cold War Espionage and Betrayal. Doubleday Books, 2015.
 
 G -- GEOGRAPHY. ANTHROPOLOGY. RECREATION
+GN778.25 Cline, Eric H. 1177 B.C.: The year civilization collapsed. Princeton, NJ: Princeton University Press, 2014. 
 GV1029.15 Cannell, Michael. The Limit: Life and Death on the 1961 Grand Prix Circuit. Twelve, 2012.
 GV1440 Yusupov, Artur. Build Up Your Chess 1: The Fundamentals. Quality Chess Uk Llp, 2008.
 GV1445 Chernev, Irving. Logical Chess : Move By Move: Every Move Explained. Batsford, 2003.
